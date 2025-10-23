@@ -4,14 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a0fe406-75ed-49ff-8bae-a248dfc1a19c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/DM2025-Lab1-Exercise.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/DM2025-Lab1-Exercise.iml" afterDir="false" />
+    <list default="true" id="5df6b07c-4891-414c-818a-3e8b236c095f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DM2025-Lab1-Master.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DM2025-Lab1-Master.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/td_freq_db_alt_atheism.csv" beforeDir="false" afterPath="$PROJECT_DIR$/td_freq_db_alt_atheism.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/td_freq_db_comp_graphics.csv" beforeDir="false" afterPath="$PROJECT_DIR$/td_freq_db_comp_graphics.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/td_freq_db_sci_med.csv" beforeDir="false" afterPath="$PROJECT_DIR$/td_freq_db_sci_med.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/td_freq_db_soc_religion_christian.csv" beforeDir="false" afterPath="$PROJECT_DIR$/td_freq_db_soc_religion_christian.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,9 +23,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
+  "associatedIndex": 4
 }]]></component>
-  <component name="ProjectId" id="34PvugdMtkD0lApiNv8yjS8RjJS" />
+  <component name="ProjectId" id="34SxPLGQmNSqSP7D79zobEpM8tS" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -40,7 +41,6 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -78,16 +78,27 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4a0fe406-75ed-49ff-8bae-a248dfc1a19c" name="Changes" comment="" />
-      <created>1761128247971</created>
+      <changelist id="5df6b07c-4891-414c-818a-3e8b236c095f" name="Changes" comment="" />
+      <created>1761220750568</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1761128247971</updated>
-      <workItem from="1761128259164" duration="5479000" />
+      <updated>1761220750568</updated>
+      <workItem from="1761220761149" duration="5957000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>file://$PROJECT_DIR$/DM2025-Lab1-Master.ipynb</url>
+          <line>1277</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
