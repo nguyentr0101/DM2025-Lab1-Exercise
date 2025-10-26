@@ -7,10 +7,7 @@
     <list default="true" id="3f60468f-84b8-4284-92ea-017a49470e7f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DM2025-Lab1-Master.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DM2025-Lab1-Master.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/freq_patterns_alt_atheism_minSup9.txt" beforeDir="false" afterPath="$PROJECT_DIR$/freq_patterns_alt_atheism_minSup9.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/freq_patterns_comp_graphics_minSup9.txt" beforeDir="false" afterPath="$PROJECT_DIR$/freq_patterns_comp_graphics_minSup9.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/freq_patterns_sci_med_minSup9.txt" beforeDir="false" afterPath="$PROJECT_DIR$/freq_patterns_sci_med_minSup9.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/freq_patterns_soc_religion_minSup9.txt" beforeDir="false" afterPath="$PROJECT_DIR$/freq_patterns_soc_religion_minSup9.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DM2025-Lab1-Master_old.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +57,7 @@
       <option name="presentableId" value="Default" />
       <updated>1761449408989</updated>
       <workItem from="1761449420243" duration="8749000" />
-      <workItem from="1761458440636" duration="1511000" />
+      <workItem from="1761458440636" duration="4946000" />
     </task>
     <servers />
   </component>
