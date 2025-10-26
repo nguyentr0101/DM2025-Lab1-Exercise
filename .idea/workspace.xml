@@ -4,15 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5df6b07c-4891-414c-818a-3e8b236c095f" name="Changes" comment="">
+    <list default="true" id="3f60468f-84b8-4284-92ea-017a49470e7f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DM2025-Lab1-Master.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DM2025-Lab1-Master.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/td_freq_db_alt_atheism.csv" beforeDir="false" afterPath="$PROJECT_DIR$/td_freq_db_alt_atheism.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/td_freq_db_comp_graphics.csv" beforeDir="false" afterPath="$PROJECT_DIR$/td_freq_db_comp_graphics.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/td_freq_db_sci_med.csv" beforeDir="false" afterPath="$PROJECT_DIR$/td_freq_db_sci_med.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/td_freq_db_soc_religion_christian.csv" beforeDir="false" afterPath="$PROJECT_DIR$/td_freq_db_soc_religion_christian.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,9 +20,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
+  "associatedIndex": 1
 }]]></component>
-  <component name="ProjectId" id="34SxPLGQmNSqSP7D79zobEpM8tS" />
+  <component name="ProjectId" id="34aQsKT1TrU9XMMDls6KSLEgx4X" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -41,34 +38,10 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
-      <module name="DM2025-Lab1-Exercise" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -78,27 +51,16 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="5df6b07c-4891-414c-818a-3e8b236c095f" name="Changes" comment="" />
-      <created>1761220750568</created>
+      <changelist id="3f60468f-84b8-4284-92ea-017a49470e7f" name="Changes" comment="" />
+      <created>1761449408989</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1761220750568</updated>
-      <workItem from="1761220761149" duration="5957000" />
+      <updated>1761449408989</updated>
+      <workItem from="1761449420243" duration="1353000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
-          <url>file://$PROJECT_DIR$/DM2025-Lab1-Master.ipynb</url>
-          <line>1277</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
