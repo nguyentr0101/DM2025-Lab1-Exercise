@@ -6,8 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="3f60468f-84b8-4284-92ea-017a49470e7f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DM2025-Lab1-Master.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/DM2025-Lab1-Master.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DM2025-Lab1-Master.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DM2025-Lab1-Master_old.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +57,7 @@
       <option name="presentableId" value="Default" />
       <updated>1761449408989</updated>
       <workItem from="1761449420243" duration="8749000" />
-      <workItem from="1761458440636" duration="4946000" />
+      <workItem from="1761458440636" duration="8724000" />
     </task>
     <servers />
   </component>
