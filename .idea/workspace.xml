@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6bafbf0d-4a91-4b5b-8701-1583f602c6d5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DM2025-Lab1-Homework.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DM2025-Lab1-Homework.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DM2025-Lab1-Master.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DM2025-Lab1-Master.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/freq_patterns_alt_atheism_minSup9.txt" beforeDir="false" afterPath="$PROJECT_DIR$/freq_patterns_alt_atheism_minSup9.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/freq_patterns_sci_med_minSup9.txt" beforeDir="false" afterPath="$PROJECT_DIR$/freq_patterns_sci_med_minSup9.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +93,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1761473735326</updated>
-      <workItem from="1761473746134" duration="1709000" />
+      <workItem from="1761473746134" duration="5871000" />
     </task>
     <servers />
   </component>
